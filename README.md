@@ -1,6 +1,9 @@
-# us-medical-insurance-costs
+# US Medical Insurance Costs [WIP]
 
 Python portfolio project from Codecademy
+Data and concept were provided by Codecademy, but all code is written by me.
+
+This is a data analysis that reads a csv of insurance costs for 1338 people and performs a series of regression to create a cost prediction formula
 
 TODO: 
 - [x] Load csv data
