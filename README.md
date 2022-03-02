@@ -3,8 +3,8 @@
 Python portfolio project from Codecademy
 
 TODO: 
-- [X] Load csv data
-- [ ] Create linear regression function
+- [x] Load csv data
+- [x] Create linear regression function
 - [ ] Age
   - [ ] Find average, std dev of age
   - [ ] Perform linear regression of age vs. insurance costs
