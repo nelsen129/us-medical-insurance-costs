@@ -5,10 +5,10 @@ Python portfolio project from Codecademy
 TODO: 
 - [x] Load csv data
 - [x] Create linear regression function
-- [ ] Age
-  - [ ] Find average, std dev of age
-  - [ ] Perform linear regression of age vs. insurance costs
-  - [ ] Plot age vs. insurance costs
+- [x] Age
+  - [x] Find average age
+  - [x] Perform linear regression of age vs. insurance costs
+  - [x] Plot age vs. insurance costs
 - [ ] BMI
   - [ ] Find average, std dev of BMI
   - [ ] Perform linear regression of bmi vs. insurance costs
