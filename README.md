@@ -9,10 +9,10 @@ TODO:
   - [x] Find average age
   - [x] Perform linear regression of age vs. insurance costs
   - [x] Plot age vs. insurance costs
-- [ ] BMI
-  - [ ] Find average, std dev of BMI
-  - [ ] Perform linear regression of bmi vs. insurance costs
-  - [ ] Plot bmi vs. insurance costs
+- [x] BMI
+  - [x] Find average BMI
+  - [x] Perform linear regression of bmi vs. insurance costs
+  - [x] Plot bmi vs. insurance costs
 - [ ] Children
   - [ ] Find average number of children
   - [ ] Perform linear regression of children vs. insurance costs
