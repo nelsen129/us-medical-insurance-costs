@@ -23,9 +23,9 @@ TODO:
 - [x] Smoker
   - [x] Find average difference in costs between smoker/non-smoker
   - [x] Plot differences
-- [ ] Region
-  - [ ] Find average difference in costs between regions
-  - [ ] Plot differences
+- [x] Region
+  - [x] Find average difference in costs between regions
+  - [x] Plot differences
 - [x] Sex
   - [x] Find average difference in costs between male/female
   - [x] Plot difference
