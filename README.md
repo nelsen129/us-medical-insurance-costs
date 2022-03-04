@@ -20,14 +20,14 @@ TODO:
   - [x] Find average number of children
   - [x] Perform linear regression of children vs. insurance costs
   - [x] Plot children vs. insurance costs
-- [ ] Smoker
-  - [ ] Find average difference in costs between smoker/non-smoker
-  - [ ] Plot differences
+- [x] Smoker
+  - [x] Find average difference in costs between smoker/non-smoker
+  - [x] Plot differences
 - [ ] Region
   - [ ] Find average difference in costs between regions
   - [ ] Plot differences
-- [ ] Sex
-  - [ ] Find average difference in costs between male/female
-  - [ ] Plot difference
+- [x] Sex
+  - [x] Find average difference in costs between male/female
+  - [x] Plot difference
 - [ ] All
   - [ ] Can we find a linear relationship between all of the variables and costs? What's the error?
