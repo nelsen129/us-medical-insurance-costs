@@ -16,10 +16,10 @@ TODO:
   - [x] Find average BMI
   - [x] Perform linear regression of bmi vs. insurance costs
   - [x] Plot bmi vs. insurance costs
-- [ ] Children
-  - [ ] Find average number of children
-  - [ ] Perform linear regression of children vs. insurance costs
-  - [ ] Plot children vs. insurance costs
+- [x] Children
+  - [x] Find average number of children
+  - [x] Perform linear regression of children vs. insurance costs
+  - [x] Plot children vs. insurance costs
 - [ ] Smoker
   - [ ] Find average difference in costs between smoker/non-smoker
   - [ ] Plot differences
