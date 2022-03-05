@@ -31,4 +31,4 @@ TODO:
   - [x] Plot difference
 - [x] All
   - [x] Can we find a linear relationship between all of the variables and costs? What's the error?
-- [ ] Clean up analysis
+- [x] Clean up analysis
