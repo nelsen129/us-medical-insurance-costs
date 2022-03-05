@@ -29,5 +29,6 @@ TODO:
 - [x] Sex
   - [x] Find average difference in costs between male/female
   - [x] Plot difference
-- [ ] All
-  - [ ] Can we find a linear relationship between all of the variables and costs? What's the error?
+- [x] All
+  - [x] Can we find a linear relationship between all of the variables and costs? What's the error?
+- [ ] Clean up analysis
